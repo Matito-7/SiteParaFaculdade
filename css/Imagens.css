@@ -1,0 +1,43 @@
+.ImagensDosTrabalhos
+{
+    background-color:rgb(26, 25, 25);
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 1600px;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+.titulo
+{
+    font-size: 32px;
+}
+
+.ImagemGrande
+{
+    box-sizing: border-box;
+    width: 100%;
+    height: 600px;
+    border: 1px solid white;
+    border-radius: 2rem;
+    margin: 1rem 0;
+}
+
+.DividirAsImagensPequenas
+{
+    display: flex;
+    margin: 1rem 0;
+    gap: 1rem;
+}
+
+.ImagemPequena
+{
+    height: 600px;
+    border: 1px solid white;
+    width: 100%;
+    border-radius: 2rem;
+}
