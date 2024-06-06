@@ -18,7 +18,7 @@ header, .banner
 nav
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .listaNav
