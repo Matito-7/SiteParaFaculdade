@@ -18,7 +18,7 @@ header, .banner
 nav
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .listaNav
@@ -36,7 +36,7 @@ nav
     height: 100%;
     align-items: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 5rem 0.5rem;
 }
 
